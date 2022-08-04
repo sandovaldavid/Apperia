@@ -1,0 +1,2 @@
+----Abreviacion "emmet"---
+    header>img+nav>ul>li*6>a
