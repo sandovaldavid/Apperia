@@ -35,11 +35,13 @@
     margin-left: .7rem;
 }
 
-#name-web{
-    background-color: blanchedalmond;
-    padding: .5em 1em;
-    display: block;
+#name-web>h2{
+    background-color: antiquewhite;
     color: black;
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 8px;
 }
 
 @media screen and (min-width: 1024px) {
@@ -47,5 +49,11 @@
         flex-direction: row;
         justify-content: space-between;
         border: none;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .head__logo{
+        width: 100%
     }
 }
