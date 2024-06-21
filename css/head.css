@@ -35,6 +35,13 @@
     margin-left: .7rem;
 }
 
+#name-web{
+    background-color: blanchedalmond;
+    padding: .5em 1em;
+    display: block;
+    color: black;
+}
+
 @media screen and (min-width: 1024px) {
     .head {
         flex-direction: row;
