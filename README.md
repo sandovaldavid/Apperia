@@ -125,4 +125,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ---
 
-<p align="center">Made by [@sandovaldavid](https://github.com/sandovaldavid) </p>
+<p align="center">Made by <a href="https://github.com/sandovaldavid">@sandovaldavid</a></p>
