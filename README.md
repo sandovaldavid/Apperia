@@ -117,7 +117,7 @@ apeperia/
 
 ## 👥 Author
 
-- **@sandovaldavid**
+- **[@sandovaldavid](https://github.com/sandovaldavid)**
 
 ## 📜 License
 
@@ -125,4 +125,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ---
 
-<p align="center">Made by @sandovaldavid</p>
+<p align="center">Made by [@sandovaldavid](https://github.com/sandovaldavid) </p>
